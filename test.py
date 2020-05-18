@@ -43,3 +43,7 @@ print(string)
 
 number = input("숫자를 입력하세요 >")
 print(number)
+
+
+a = "10 20 30 40 50 60".split(" ")
+print(a)
