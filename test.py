@@ -47,3 +47,14 @@ print(number)
 
 a = "10 20 30 40 50 60".split(" ")
 print(a)
+
+print(True)
+print(False)
+
+print('가방' == '가방')
+print('가방' < '하마')
+print('가방' > '하마')
+
+if True:
+    print("True입니다!")
+    print("정말 True입니다")
